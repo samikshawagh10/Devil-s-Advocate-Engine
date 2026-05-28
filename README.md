@@ -57,3 +57,5 @@ results = asyncio.run(run_all_agents(plan))
 - **Web search agent** — add a 6th agent that searches for competitors via web_search tool
 - **History** — save past analyses to SQLite, track how plans improve over time
 - **Multi-plan battle** — compare two versions of a plan head-to-head
+
+<img width="1417" height="710" alt="Screenshot 2026-05-28 at 19 30 11" src="https://github.com/user-attachments/assets/37ca6869-67e2-48d4-b831-d58dcab782df" />
