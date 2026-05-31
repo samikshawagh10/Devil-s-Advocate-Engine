@@ -14,7 +14,6 @@ Then let you defend yourself — and re-score.
 | 👤 Adoption Pessimist | Questions behavior change, onboarding friction, churn |
 
 ## Setup
-
 ```bash
 # 1. Clone / download this folder
 cd devils_advocate
